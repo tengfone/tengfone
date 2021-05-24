@@ -15,6 +15,7 @@ jobs:
         with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@tengfone"
-      - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
+      - uses: MadeByThePinsHub/github-activity-readme@master
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
