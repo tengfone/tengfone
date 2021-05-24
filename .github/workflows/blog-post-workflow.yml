@@ -17,5 +17,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          COMMIT_MSG: 'Specify a custom commit message'
+          MAX_LINES: 10
           comment_tag_name: GITHUBSTAT
-          gh_token: ${{ secrets.READMEKEY }}
