@@ -13,10 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          COMMIT_MSG: 'Specify a custom commit message'
-          MAX_LINES: 10
-          comment_tag_name: GITHUBSTAT
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/feed/@tengfone"
