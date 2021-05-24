@@ -3,16 +3,16 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EB84A&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Aspiring+Data+Scientist" alt= "Banner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=2EB84A&center=true&vCenter=true&lines=An+Engineer+With+Many+Hats;Aspiring+Software+Engineer;+Aspiring+Full+Stack+Developer;Aspiring+Data+Scientist;Aspiring+Entrepreneur" alt= "Banner"/>
  </p>
 
 ## 📇 About Me
 
-Hello! I'm Teng Fone, residing in Singapore with background in Mechanical Engineering and Computer Science.
+Hello! I'm Teng Fone, residing in Singapore with a Diploma in Mechanical Engineering and Bachelor Degree in Computer Science (Minor in Artifical Intelligence).
 
 I enjoy reading up on engineering marvels and developing about anything ranging from software to hardware related.
 
-I'm passionate in utilizing my knowledge in engineering coupled with computer science and big data to develop solutions.
+I'm passionate in utilizing my knowledge in engineering coupled with computer science and big data with data analytic perceptions to develop solutions.
 
 What I do with my free time:
 - Hackathons and projects
