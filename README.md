@@ -66,7 +66,11 @@ What I do with my free time:
 </p>
 
 ## 📰 Blog Post
-
+<details> 
+  <summary>Medium Article</summary>
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+</details>
 
 ## 🔥 GitHub stats
 
