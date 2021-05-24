@@ -66,12 +66,10 @@ What I do with my free time:
 </p>
 
 ## 📰 Blog Post
-<details> 
-  <summary>Medium Article</summary>
+
+### Medium
 <!-- MEDIUM:START -->
-- [Must have MacOS apps for first time users!](https://tengfone.medium.com/must-have-macos-apps-for-first-time-users-aa34b59d82b0?source=rss-ad32a0ecc2ae------2)
 <!-- MEDIUM:END -->
-</details>
 
 ## 🔥 GitHub stats
 
