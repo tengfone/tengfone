@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          gh_token: ${{ secrets.readMeKey }}
+          gh_token: ${{ secrets.GH_TOKEN }}
