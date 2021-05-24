@@ -89,7 +89,6 @@ What I do with my free time:
   <br/>
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 </details>
 
 <!--
