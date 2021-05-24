@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: tengfone/tengfone@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           gh_token: ${{ secrets.readMeKey }}
