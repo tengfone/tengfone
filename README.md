@@ -1,6 +1,10 @@
 <h3 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Teng Fone
-</h3
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EB84A&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Aspiring+Data+Scientist" alt= "Banner"/>
+ </p>
 
 Hello! I'm Teng Fone, residing in Singapore with background in Mechanical Engineering and Computer Science.
 
@@ -23,14 +27,27 @@ What I do with my free time:
 ## 📘 My Top Projects
 <p align="left">
   <a href="https://github.com/tengfone/AmaNerdBookReview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=AmaNerdBookReview&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
+  <a href="https://github.com/tengfone/green_scanner_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=green_scanner_flutter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
+  <a href="https://github.com/tengfone/F04Musician"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=F04Musician&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
+  <a href="  https://github.com/tengfone/telegram_sgcheckpoint_pytutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=telegram_sgcheckpoint_pytutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
 </p>
 
 <p align="left">
   <a href="https://github.com/tengfone?tab=repositories"><img alt="All Repo" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-## 🖥️ Deployed Projects
+## 🖥️ My Top Live Deployed Projects
+* Please note for Heroku Apps, please let it load for a minute before refreshing to enter as it is currently running on Heroku Free Dyno.
 
+
+| Project | Live Demo |
+| --- | --- |
+| OnMyWay | [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white")](https://play.google.com/store/apps/details?id=com.theway2co.onmyway&hl=en&gl=US) [![](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/sg/app/onmyway-theway2co/id1530214166) |
+| DeepLearning HandWashing | [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://handwashdl.herokuapp.com/) |
+| Machine Learning Multi-model audio analysis | [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://f04musician.herokuapp.com/) |
+| SwiftySG (Full Stack Deployment) | [![](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Internet-Explorer&logoColor=white")](https://swifty.sg) |
+| Telegram Bots | [![](https://img.shields.io/badge/@QRCodifyBot-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white")](https://telegram.me/QRCodifyBot) |
+| Portfolio Static Site | [![](https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white")](https://tengfone.github.io/me/) |
 
 
 ## 🛠️ Technology Stack
@@ -83,25 +100,3 @@ What I do with my free time:
   <br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=tengfone&theme=dracula)" alt="TengFone Github Activity Graph"/>
 </details>
-
-<details>
-  <summary>GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-</details>
-
-<!--
-**tengfone/tengfone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
