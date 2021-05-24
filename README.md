@@ -84,9 +84,12 @@ What I do with my free time:
   <img src="https://activity-graph.herokuapp.com/graph?username=tengfone&theme=dracula)" alt="TengFone Github Activity Graph"/>
 </details>
 
-<details> 
-  <summary>Recent Activity</summary>
+<details>
+  <summary>GitHub Activity</summary>
+  <br/>
+
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 <!--
