@@ -6,6 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EB84A&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Aspiring+Data+Scientist" alt= "Banner"/>
  </p>
 
+## 📇 About Me
+
 Hello! I'm Teng Fone, residing in Singapore with background in Mechanical Engineering and Computer Science.
 
 I enjoy reading up on engineering marvels and developing about anything ranging from software to hardware related.
@@ -18,7 +20,7 @@ What I do with my free time:
 - Entrepreneurial
 - Maker
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/tengfonephang/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/tengfonephang/" alt="LinkedIn Badge"></a>
 <img src="https://komarev.com/ghpvc/?username=tengfone&color=green" alt="ProfileView Badge"/>
   <a href="https://tengfone.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-@tengfone-Green" alt="Portfolio Badge"></a>
@@ -92,7 +94,9 @@ What I do with my free time:
 ## 🔥 GitHub stats
 
 <p align="center">
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tengfone&show_icons=true&count_private=true&theme=redical" width="350"></a>
+  <!-- If you're using "main" as default branch -->
+  <!-- From https://github.com/lowlighter/metrics -->
+ <img src="https://github.com/tengfone/tengfone/blob/main/github-metrics.svg" alt="Github stats"/>
 </p>
 
 <details> 
@@ -100,3 +104,5 @@ What I do with my free time:
   <br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=tengfone&theme=dracula)" alt="TengFone Github Activity Graph"/>
 </details>
+
+
