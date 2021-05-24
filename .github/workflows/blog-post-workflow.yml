@@ -1,14 +1,19 @@
-name: Latest blog post workflow
+name: Update blog posts
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest GitHub Activity
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: tengfone/blog-post-workflow@main
+      - uses: tengfone/blog-post-workflow@master
         with:
+          comment_tag_name: GITHUBSTAT
           gh_token: ${{ secrets.READMEKEY }}
