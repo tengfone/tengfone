@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: tengfone/tengfone@main
         with:
-          gh_token: ${{secrets.GITHUB_TOKEN}}
+          gh_token:
