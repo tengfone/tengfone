@@ -82,8 +82,8 @@ What I do with my free time:
 
 <details> 
   <summary>Recent Activity</summary>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- GITHUBSTAT:START -->
+<!-- GITHUBSTAT:END -->
 </details>
 
 <!--
