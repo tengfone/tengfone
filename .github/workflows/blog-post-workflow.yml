@@ -17,3 +17,6 @@ jobs:
         with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@tengfone"
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
