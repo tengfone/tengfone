@@ -21,10 +21,16 @@ What I do with my free time:
 - Maker
 
 <p align="center">
+  <a href="https://tengfone.github.io/me/contact"><img alt="Gmail" src="https://img.shields.io/badge/Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tengfonephang/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/tengfonephang/" alt="LinkedIn Badge"></a>
-<img src="https://komarev.com/ghpvc/?username=tengfone&color=green" alt="ProfileView Badge"/>
-  <a href="https://tengfone.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-@tengfone-Green" alt="Portfolio Badge"></a>
+  <a href="https://tengfone.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Internet-Explorer&logoColor=white" alt="Portfolio"/></a>
+    <a href= "https://www.hackerrank.com/phangtf"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
+  <a href= "https://leetcode.com/tengfone/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-2EC866?style=flat-square&logo=LeetCode&logoColor=white"/></a>
 </p>
+
+<p align = "center">
+  <img src="https://komarev.com/ghpvc/?username=tengfone&color=green" alt="ProfileView Badge"/>
+  </p>
 
 ## 📘 My Top Projects
 <p align="left">
