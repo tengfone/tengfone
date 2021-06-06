@@ -44,7 +44,7 @@ What I do with my free time:
   <a href="https://github.com/tengfone?tab=repositories"><img alt="All Repo" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-## 🖥️ My Top Live Deployed Projects
+## 🖥️ My Live Deployed Projects
 * Please note for Heroku Apps, please let it load for a minute before refreshing to enter as it is currently running on Heroku Free Dyno.
 
 
@@ -57,7 +57,7 @@ What I do with my free time:
 | Telegram Bots | [![](https://img.shields.io/badge/@QRCodifyBot-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/QRCodifyBot) |
 | ThreeJS WebGL Site(Web Optimized Only) | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tf-3js.vercel.app/) |
 | Portfolio Static Site | [![](https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white")](https://tengfone.github.io/me/) |
-
+| SHA256 Encryption(Responsive) | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sha-256-tengfone.vercel.app/) |
 
 ## 🛠️ Technology Stack
 ### 📚 Languages
