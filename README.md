@@ -53,11 +53,12 @@ What I do with my free time:
 | OnMyWay | [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white")](https://play.google.com/store/apps/details?id=com.theway2co.onmyway&hl=en&gl=US) [![](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/sg/app/onmyway-theway2co/id1530214166) |
 | DeepLearning HandWashing | [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://handwashdl.herokuapp.com/) |
 | Machine Learning Multi-model audio analysis | [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://f04musician.herokuapp.com/) |
+| LiquidityFarming(Crypto)-Requires Ganache & MetaMask | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ptf-liquidityfarming.vercel.app/)
 | SwiftySG (Full Stack Dev & Deployment) | [![](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://swifty.sg) |
 | Telegram Bots | [![](https://img.shields.io/badge/@QRCodifyBot-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/QRCodifyBot) |
 | ThreeJS WebGL Site(Web Optimized Only) | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tf-3js.vercel.app/) |
 | Portfolio Static Site | [![](https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white")](https://tengfone.github.io/me/) |
-| SHA256 Encryption(Responsive) | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sha-256-tengfone.vercel.app/) |
+| SHA256 Encryption(Responsive) | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sha-256-tengfone.vercel.app/) | 
 
 ## 🛠️ Technology Stack
 ### 📚 Languages
