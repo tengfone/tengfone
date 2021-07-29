@@ -37,7 +37,7 @@ What I do with my free time:
   <a href="https://github.com/tengfone/AmaNerdBookReview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=AmaNerdBookReview&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
   <a href="https://github.com/tengfone/green_scanner_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=green_scanner_flutter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
   <a href="https://github.com/tengfone/F04Musician"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=F04Musician&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
-  <a href="https://github.com/tengfone/telegram_sgcheckpoint_pytutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=telegram_sgcheckpoint_pytutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
+  <a href="https://github.com/tengfone/open-river"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tengfone&repo=open-river&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats" ></a>
 </p>
 
 <p align="left">
