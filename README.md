@@ -2,10 +2,6 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Teng Fone
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=2EB84A&center=true&vCenter=true&lines=An+Engineer+With+Many+Hats;Aspiring+Software+Engineer;+Aspiring+Full+Stack+Developer;Aspiring+Data+Scientist;Aspiring+Entrepreneur" alt= "Banner"/>
- </p>
-
 ## 📇 About Me
 
 Hello! I'm Teng Fone, residing in Singapore with a Diploma in Mechanical Engineering and Bachelor Degree in Computer Science (Minor in Artifical Intelligence).
