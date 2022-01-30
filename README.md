@@ -57,7 +57,8 @@ What I do with my free time:
 | DeadPixel Tester | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://deadpixel-tester.vercel.app/) |
 | SHA256 Encryption(Responsive) | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sha-256-tengfone.vercel.app/)
 | URL Shortener | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tf-urlshortener.vercel.app/) |
-| Spotify Controller | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextify-edu-git-main-tengfone.vercel.app/) |
+| Spotify Controller | [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextify-edu-git-main-tengfone.vercel.app/)
+| singleFone | [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fZvnes3n610) | 
 
 
 ## 🛠️ Technology Stack
