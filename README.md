@@ -4,17 +4,7 @@
 
 ## 📇 About Me
 
-Hello! I'm Teng Fone, residing in Singapore with a Diploma in Mechanical Engineering and Bachelor Degree in Computer Science (Minor in Artifical Intelligence).
-
-I enjoy reading up on engineering marvels and developing about anything ranging from software to hardware related.
-
-I'm passionate in utilizing my knowledge in engineering coupled with computer science and big data with data analytic perceptions to develop solutions.
-
-What I do with my free time:
-- Hackathons and projects
-- Intriguing projects
-- Entrepreneurial
-- Maker
+Hello! I'm Teng Fone
 
 <p align="center">
   <a href="https://tengfone.github.io/me/contact"><img alt="Gmail" src="https://img.shields.io/badge/Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
