@@ -4,7 +4,7 @@
 
 ## 📇 About Me
 
-Hello! I'm Teng Fone
+Hello! I'm Teng Fone from ap-southeast-1
 
 <p align="center">
   <a href="https://tengfone.github.io/me/contact"><img alt="Gmail" src="https://img.shields.io/badge/Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
